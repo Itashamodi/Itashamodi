@@ -1,6 +1,8 @@
-# こんにちは! 👋, I'm Itasha Modi
+# こんにちは! Hello👋, I'm Itasha Modi
 
-![Header Image](https://images.assetsdelivery.com/compings_v2/lexanda/lexanda1705/lexanda170500032.jpg)
+<p align="center">
+  <img src="https://images.assetsdelivery.com/compings_v2/lexanda/lexanda1705/lexanda170500032.jpg" alt="Header Image">
+</p>
 
 As a **final year student** pursuing **Computer Science and Engineering** with a specialization in **Artificial Intelligence and Machine Learning**, I am passionate about integrating the AI sector with digital information. With a current **CGPA of 8.92**, I have developed a strong foundation in programming, web development, and database management. My goal is to become a skilled **full-stack developer**, combining my technical expertise with my interest in designing.
 
