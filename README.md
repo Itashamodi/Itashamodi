@@ -12,7 +12,7 @@ As a **final year student** pursuing **Computer Science and Engineering** with a
 
 Connect with me:
 
-[**LinkedIn**](https://www.linkedin.com/in/itasha-modi-b3a2111ab/) | [**GitHub**](https://github.com/Itashamodi/Itashamodi)
+[**LinkedIn**](https://www.linkedin.com/in/itasha-modi-b3a2111ab/) | [**GitHub**](https://github.com/Itashamodi)
 
 ## Tools and Technology
 
